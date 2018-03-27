@@ -13,12 +13,12 @@ class App extends Component {
         </header>
         <h2>Referencias</h2>
         <p className="App-intro">
-          <a href="https://blog.heroku.com/deploying-react-with-zero-configuration#new-zero-configuration-experience">
-          https://blog.heroku.com/deploying-react-with-zero-configuration#new-zero-configuration-experience</a>
+          <a href="https://blog.heroku.com/deploying-react-with-zero-configuration">
+          https://blog.heroku.com/deploying-react-with-zero-configuration</a>
         </p>
         <p className="App-intro">
-        <a href="https://github.com/mars/create-react-app-buildpack#user-content-requires">
-        https://github.com/mars/create-react-app-buildpack#user-content-requires</a>
+        <a href="https://github.com/mars/create-react-app-buildpack">
+        https://github.com/mars/create-react-app-buildpack</a>
         </p>
       </div>
     );
