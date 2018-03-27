@@ -20,6 +20,10 @@ class App extends Component {
         <a href="https://github.com/mars/create-react-app-buildpack">
         https://github.com/mars/create-react-app-buildpack</a>
         </p>
+        <p className="intro">
+        <a href="https://github.com/hildyale/Hola-Mundo-React">
+        https://github.com/hildyale/Hola-Mundo-React</a>
+        </p>
       </div>
     );
   }
