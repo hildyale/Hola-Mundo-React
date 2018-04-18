@@ -1,2 +1,2 @@
-var hola = 20;
+var hola = 40;
 console.log(hola);
